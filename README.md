@@ -1,2 +1,2 @@
-# DTSC2301Project
+# DTSC2302Project
 First Project Code
